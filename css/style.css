@@ -39,6 +39,7 @@ h2{
         background-color:rgb(235,150,185,.6);
 }
 .phi img{
+	　　display: flex;
         margin-left:20px;
         border-radius: 35%;
 }
