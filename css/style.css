@@ -41,20 +41,23 @@ h2{
 .phi{
     display: flex;
     gap: 20px;
+    align-items: center;
     margin-left: 20px;
-    align-items: flex-start;
+}
+
+.phi img{
+    height: auto;
+    border-radius: 35%;
+    display: block;
+    margin-left: 0;
 }
 
 .phi .img1{
-    width: 40%;
-    height: auto;
-    border-radius: 35%;
+    width: 35%;
 }
 
 .phi .img2{
-    width: 25% !important;
-    height: auto;
-    border-radius: 35%;
+    width: 20%;
 }
 
 .container-t{
