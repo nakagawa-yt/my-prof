@@ -38,10 +38,16 @@ h2{
         margin:12px 0 42px 6px;
         background-color:rgb(235,150,185,.6);
 }
+.phi{
+    display: flex;
+    gap: 20px; 
+    margin-left: 20px;
+}
+
 .phi img{
-	　　display: flex;
-        margin-left:20px;
-        border-radius: 35%;
+    width: 48%; 
+    height: auto;
+    border-radius: 35%;
 }
 
 .container-t{
