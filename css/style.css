@@ -45,14 +45,16 @@ h2{
     align-items: flex-start;
 }
 
-.phi img{
+.phi .img1{
     width: 40%;
     height: auto;
     border-radius: 35%;
 }
 
-.phi img:nth-child(2){
-    width: 32%;
+.phi .img2{
+    width: 25% !important;
+    height: auto;
+    border-radius: 35%;
 }
 
 .container-t{
