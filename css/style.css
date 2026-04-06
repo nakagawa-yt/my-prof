@@ -51,6 +51,10 @@ h2{
     border-radius: 35%;
 }
 
+.phi img:nth-child(2){
+    width: 32%;
+}
+
 .container-t{
         margin-left: 18px;
 	float: center;
